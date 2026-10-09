@@ -158,7 +158,7 @@ on a phone, tablet or computer. No installation is required.
 
 The package includes the calculation engine, Python 3.13 and Qt WebEngine. It
 does not require Python, Node.js, Vercel, a separate browser or a traditional
-installer. It supports 64-bit Windows 10 and 11 and uses approximately 400 MiB
+installer. It supports 64-bit Windows 10 and 11 and uses approximately 387 MiB
 after extraction. Calculations continue to work offline.
 
 > **Windows notice:** the current preview is not code-signed, so SmartScreen may
