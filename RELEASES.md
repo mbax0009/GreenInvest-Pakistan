@@ -4,11 +4,18 @@
 
 | Item | Value |
 | --- | --- |
-| Product | GreenInvest Pakistan 4.5.0 |
+| Product | GreenInvest Pakistan 4.6.0 |
 | Platform | 64-bit Windows 10 and 11 |
 | Package | `GreenInvest-Windows-x64.zip` |
-| Download size | 155.8 MiB |
-| SHA-256 | `F857810F39B23A68505485B108D546937D6E2E92107C7FEDC0CDD9BACBCAE686` |
+| Download size | 157.3 MiB |
+| Extracted size | 386.7 MiB |
+| SHA-256 | `52B17CF426F8F0D9991E9CBF8A265B8A95F05759967DF84F6A224DF5516CC80C` |
+
+Version 4.6.0 includes offline equipment prices observed on 9 October 2026,
+five price bands, individual component choices and recurring bill-charge inputs.
+The complete ZIP was extracted and tested for desktop startup and a real
+market-average recommendation before publication. It requires no separate
+Python, Node.js or web-hosting account.
 
 ## Install
 

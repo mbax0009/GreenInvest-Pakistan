@@ -4,6 +4,22 @@ Product-facing release history for the official live calculator and standalone
 Windows application. Downloadable files and integrity information are published
 on the [release page](https://github.com/mbax0009/GreenInvest-Pakistan/releases).
 
+## 4.6.0 — 9 October 2026
+
+### Market pricing and clearer bill assumptions
+
+- Restore the GreenInvest logo in the website and bundled Windows interface.
+- Add a dated equipment reference from SolarPanelPrices.pk and SolarPrice.pk,
+  with five joint spending bands, market averages, searchable component choices
+  and individual manual price overrides.
+- Preserve exact installer quotations and separate installation allowances.
+- Add optional recurring fixed charges, positive per-unit adjustments, tax and
+  minimum-bill inputs without changing the existing base tariff schedule.
+- Preserve historical saved plans and prevent different price selections from
+  sharing an incorrect cached component cost.
+- Update web dependencies to patched versions and verify bundled logos,
+  pricing data, the desktop window and a real standalone calculation.
+
 ## 4.5.0 — 28 August 2026
 
 ### Brand and large-project release
