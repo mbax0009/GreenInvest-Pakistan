@@ -4,6 +4,23 @@ Product-facing release history for the official live calculator and standalone
 Windows application. Downloadable files and integrity information are published
 on the [release page](https://github.com/mbax0009/GreenInvest-Pakistan/releases).
 
+## 4.7.0 — 9 October 2026
+
+### The decision studio
+
+- Redesign the website and Windows interface around a focused consumer journey.
+- Add six calculator chapters and an editable final review, preserving all
+  recommendation and installer-quote inputs.
+- Keep one chapter menu at a time; remove the duplicate outer icon rail.
+- Recompose all seven report sections, including the system diagram, investment
+  and bill outlook, detailed battery evidence, comparisons, risks and downloads.
+- Preserve pricing choices, saved results and click-to-run sensitivity and
+  Monte Carlo. The calculation engine and tariff/pricing reference data are unchanged.
+- Make the Windows download more visible, improve mobile and keyboard use,
+  and refresh the public impact view without changing the recorded metrics.
+- Use local fonts and lightweight CSS, with no new visual runtime dependency.
+- Rebuild and test the standalone Windows package from the tagged source.
+
 ## 4.6.0 — 9 October 2026
 
 ### Market pricing and clearer bill assumptions

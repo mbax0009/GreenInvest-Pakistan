@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img alt="GreenInvest 4.6.0" src="https://img.shields.io/badge/release-4.6.0-0E7658?style=flat-square">
+  <img alt="GreenInvest 4.7.0" src="https://img.shields.io/badge/release-4.7.0-0E7658?style=flat-square">
   <img alt="Pakistan-specific screening" src="https://img.shields.io/badge/market-Pakistan-F3C969?style=flat-square&labelColor=10251F">
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-1A7782?style=flat-square&logo=windows&logoColor=white">
   <img alt="Standalone Windows application" src="https://img.shields.io/badge/desktop-standalone-B7F43B?style=flat-square&labelColor=10251F">
@@ -67,9 +67,26 @@ continuous battery-inverter capacity**. Market pricing uses comparable published
 equipment prices and does not invent bulk discounts. Large projects still need
 an engineered design and a project-specific supplier quotation.
 
+## A focused path from inputs to a decision
+
+Six short chapters keep the process clear: **Your property**, **Electricity
+use**, **Bill goal**, **Design limits**, **Equipment pricing**, then **Review &
+calculate**. Revisit any chapter without losing your work, and check the final
+brief before running the analysis. The website and Windows application share
+the same interface, with one navigation menu at a time.
+
+The report starts with the decision, system configuration, investment and
+estimated bill. Its seven sections keep plan comparison, battery and backup,
+energy and bills, risks, advanced analysis and downloads within reach.
+Sensitivity and Monte Carlo run only when you choose to start them.
+
+<p align="center">
+  <img src="assets/my-decision-inputs.png" alt="GreenInvest's six-chapter guided calculator with one chapter menu and a focused property form" width="100%">
+</p>
+
 ## Equipment prices that fit your purchase
 
-In **Guardrails → Equipment pricing**, choose the option that suits you:
+In the **Equipment pricing** chapter, choose the option that suits you:
 
 - **Market average** — compare your system using the bundled market reference.
 - **Five joint price bands** — Economy, Value, Balanced, Higher spend or Premium
@@ -106,13 +123,13 @@ the separate allowance for structure, wiring, protection and installation.
 </p>
 
 <details>
-<summary><strong>See battery, comparison and mobile product views</strong></summary>
+<summary><strong>See battery, bills and mobile product views</strong></summary>
 
 <br>
 
 ![Battery and backup analysis](assets/battery-backup.png)
 
-![Detailed plan comparison](assets/compare-details.png)
+![Detailed monthly bills and energy](assets/compare-details.png)
 
 ![GreenInvest Pakistan on a mobile screen](assets/mobile.png)
 
@@ -133,8 +150,8 @@ items and asks consumers to compare the selected category and rates with a
 recent electricity bill. It also models seasonal demand rather than pretending
 the same electricity use occurs every month.
 
-Version 4.6.0 adds optional recurring fixed charges, positive per-unit
-adjustments, tax and minimum-bill inputs. Enter only relevant recurring items
+Optional recurring fixed charges, positive per-unit adjustments, tax and
+minimum-bill inputs help reflect your utility bill. Enter only relevant recurring items
 from your own bill; do not include arrears or one-off charges, and avoid counting
 tax twice. The existing base tariff schedule is unchanged.
 
@@ -194,7 +211,7 @@ warranties, utility treatment and complete payable bill.
 
 | Resource | Official location |
 | --- | --- |
-| Current release | [GreenInvest Pakistan 4.6.0](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest) |
+| Current release | [GreenInvest Pakistan 4.7.0](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest) |
 | Consumer tariff reference | [2026 residential, commercial, and industrial schedule](TARIFFS.md) |
 | Windows verification | [Installation and SHA-256 instructions](RELEASES.md) |
 | Product support | [Support guide](SUPPORT.md) |
