@@ -4,18 +4,24 @@
 
 | Item | Value |
 | --- | --- |
-| Product | GreenInvest Pakistan 4.6.0 |
+| Product | GreenInvest Pakistan 4.7.0 |
 | Platform | 64-bit Windows 10 and 11 |
 | Package | `GreenInvest-Windows-x64.zip` |
-| Download size | 157.3 MiB |
-| Extracted size | 386.7 MiB |
-| SHA-256 | `52B17CF426F8F0D9991E9CBF8A265B8A95F05759967DF84F6A224DF5516CC80C` |
+| Download size | 157.4 MiB |
+| Extracted size | 386.8 MiB |
+| SHA-256 | `9DD93E9B44D3343B9A3D340360CE165B19E45AF065FA88F9460DC41F48C7488B` |
 
-Version 4.6.0 includes offline equipment prices observed on 9 October 2026,
-five price bands, individual component choices and recurring bill-charge inputs.
-The complete ZIP was extracted and tested for desktop startup and a real
-market-average recommendation before publication. It requires no separate
-Python, Node.js or web-hosting account.
+Version 4.7.0 brings the complete decision-studio redesign to Windows: six
+guided calculator chapters, an editable review and seven redesigned report
+sections, with one navigation menu at a time. Pricing choices, saved plans,
+downloads, detailed battery analysis and click-to-run sensitivity and Monte
+Carlo are retained. The calculation engine and tariff/pricing reference data
+are unchanged from 4.6.0.
+
+The complete ZIP was extracted and tested on a clean Windows build runner for
+desktop startup and a real recommendation before publication. The downloaded
+archive was independently checked against the build's SHA-256 checksum. It
+requires no separate Python, Node.js or web-hosting account.
 
 ## Install
 

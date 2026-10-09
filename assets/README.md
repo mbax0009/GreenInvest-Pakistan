@@ -1,7 +1,8 @@
 # GreenInvest Pakistan product media
 
-These images show the real GreenInvest interface across the homepage,
-recommendation, plan comparison, battery analysis and mobile presentation.
+These images show the real GreenInvest interface across the homepage, guided
+calculator, recommendation, monthly bills and energy, battery analysis and
+mobile presentation.
 They contain synthetic demonstration content and are used in the
 [product overview](../README.md).
 
