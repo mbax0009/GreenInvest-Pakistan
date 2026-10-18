@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img alt="GreenInvest 4.7.0" src="https://img.shields.io/badge/release-4.7.0-0E7658?style=flat-square">
+  <img alt="GreenInvest 4.7.1" src="https://img.shields.io/badge/release-4.7.1-0E7658?style=flat-square">
   <img alt="Pakistan-specific screening" src="https://img.shields.io/badge/market-Pakistan-F3C969?style=flat-square&labelColor=10251F">
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-1A7782?style=flat-square&logo=windows&logoColor=white">
   <img alt="Standalone Windows application" src="https://img.shields.io/badge/desktop-standalone-B7F43B?style=flat-square&labelColor=10251F">
@@ -117,6 +117,11 @@ the separate allowance for structure, wiring, protection and installation.
   on-demand Monte Carlo results.
 - **Evidence and downloads** — reports, plan data, configuration, evidence and
   CSV exports that can be reviewed outside the application.
+
+The report separates **solar capacity (kWp DC)**, **inverter output (kW AC)**,
+**backup inverter power (kW)** and **battery storage (kWh)**. For example,
+17.5 kWh describes stored battery energy, not a 17.5 kW inverter. Backup power
+is checked against the loads you want to keep running and their startup demand.
 
 <p align="center">
   <img src="assets/my-decision-result.png" alt="GreenInvest Pakistan recommendation showing the verdict, proposed system and decision rationale" width="100%">
@@ -211,7 +216,7 @@ warranties, utility treatment and complete payable bill.
 
 | Resource | Official location |
 | --- | --- |
-| Current release | [GreenInvest Pakistan 4.7.0](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest) |
+| Current release | [GreenInvest Pakistan 4.7.1](https://github.com/mbax0009/GreenInvest-Pakistan/releases/latest) |
 | Consumer tariff reference | [2026 residential, commercial, and industrial schedule](TARIFFS.md) |
 | Windows verification | [Installation and SHA-256 instructions](RELEASES.md) |
 | Product support | [Support guide](SUPPORT.md) |
