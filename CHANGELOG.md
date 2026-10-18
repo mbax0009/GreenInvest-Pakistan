@@ -4,6 +4,20 @@ Product-facing release history for the official live calculator and standalone
 Windows application. Downloadable files and integrity information are published
 on the [release page](https://github.com/mbax0009/GreenInvest-Pakistan/releases).
 
+## 4.7.1 — 18 October 2026
+
+### Clearer inverter and storage recommendations
+
+- Align the recommended PV inverter and its cost with the selected solar array.
+- Show solar capacity, PV inverter power, separate backup inverter power and
+  battery energy as distinct figures with explicit units.
+- Explain backup sizing from protected running and startup loads. Battery kWh
+  describes stored energy and duration; it is not the inverter's kW rating.
+- Show one shared output for hybrid systems and retain exact installer quotes
+  for assessment, including capacity and compatibility checks.
+- Update report downloads and preserve historical saved reports for reference;
+  recalculate to apply the current sizing assumptions.
+
 ## 4.7.0 — 9 October 2026
 
 ### The decision studio
